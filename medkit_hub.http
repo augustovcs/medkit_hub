@@ -1,0 +1,6 @@
+@medkit_hub_HostAddress = http://localhost:5133
+
+GET {{medkit_hub_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
