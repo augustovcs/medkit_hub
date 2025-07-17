@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("medkit_hub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7243b312b220289775df223c2335a6bc0ec6b04f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b068eecca5682c9de93e60de5f705690fb08d5c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("medkit_hub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("medkit_hub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
